@@ -1,0 +1,15 @@
+# Blender MTL File: 'Medieval tower_High_.blend'
+# Material Count: 1
+
+newmtl Medieval_tower_very_low
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\Medieval tower_mid_Col.jpg
+map_Bump textures\Medieval tower_Disp_2.jpg
+map_Ks textures\Medieval tower_mid_Spec_3.jpg

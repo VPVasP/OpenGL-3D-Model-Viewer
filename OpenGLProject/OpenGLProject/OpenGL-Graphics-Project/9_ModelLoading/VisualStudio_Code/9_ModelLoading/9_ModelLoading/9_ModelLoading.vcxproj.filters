@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\3rdParty\src\glad.c" />
+    <ClCompile Include="9_ModelLoading.cpp" />
+    <ClCompile Include="MyLibrary.cpp" />
+    <ClCompile Include="..\3rdParty\include\imgui\imgui.cpp" />
+    <ClCompile Include="..\3rdParty\include\imgui\imgui_demo.cpp" />
+    <ClCompile Include="..\3rdParty\include\imgui\imgui_draw.cpp" />
+    <ClCompile Include="..\3rdParty\include\imgui\imgui_impl_glfw.cpp" />
+    <ClCompile Include="..\3rdParty\include\imgui\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="..\3rdParty\include\imgui\imgui_tables.cpp" />
+    <ClCompile Include="..\3rdParty\include\imgui\imgui_widgets.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Mesh.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="MyLibrary.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="..\..\..\..\..\opengl-tutorials-main\opengl-tutorials-main\ImGUI GLFW Tutorial\imgui\imstb_textedit.h" />
+    <ClInclude Include="..\..\..\..\..\opengl-tutorials-main\opengl-tutorials-main\ImGUI GLFW Tutorial\imgui\imstb_truetype.h" />
+    <ClInclude Include="..\..\..\..\..\opengl-tutorials-main\opengl-tutorials-main\ImGUI GLFW Tutorial\imgui\imconfig.h" />
+    <ClInclude Include="..\..\..\..\..\opengl-tutorials-main\opengl-tutorials-main\ImGUI GLFW Tutorial\imgui\imstb_rectpack.h" />
+    <ClInclude Include="..\3rdParty\include\imgui\imconfig.h" />
+    <ClInclude Include="..\3rdParty\include\imgui\imgui.h" />
+    <ClInclude Include="..\3rdParty\include\imgui\imgui_impl_glfw.h" />
+    <ClInclude Include="..\3rdParty\include\imgui\imgui_impl_opengl3.h" />
+    <ClInclude Include="..\3rdParty\include\imgui\imgui_internal.h" />
+    <ClInclude Include="..\3rdParty\include\imgui\imstb_rectpack.h" />
+    <ClInclude Include="..\3rdParty\include\imgui\imstb_textedit.h" />
+    <ClInclude Include="..\3rdParty\include\imgui\imstb_truetype.h" />
+  </ItemGroup>
+</Project>
