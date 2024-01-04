@@ -8,7 +8,7 @@ The OpenGL 3D Model Viewer is designed to provide a visual representation of 3D 
 
 - **Model Loading:** Utilize OpenGL to load 3D models into the application.
 - **Blinn-Phong Lighting:** Display models with the Blinn-Phong shading model.
-- **Interactive UI:** Using the UI it displays the values of each model and the FPS.
+- **UI:** Using the UI it displays the values of each model and the FPS.
 
 ## Features:
 - **Model Display:** Showcasing and loading 3D Models.
